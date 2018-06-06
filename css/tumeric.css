@@ -1,0 +1,56 @@
+*{margin: 0px;padding: 0px;}
+
+
+.menu {
+    display: block;
+    text-align: center;
+}
+
+.td-chap {
+    display: inline-block;
+    margin: 0px 20px;
+}
+
+.td-b1{
+	min-height:600px;
+	background-image: url("../img/slide01.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.td-b2{
+	min-height:600px;
+	background-image: url("../img/nen.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.td-b3{
+	min-height:600px;
+	background-image: url("../img/nen1.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.td-nd1{
+	min-height:600px;
+}
+
+.td-nd2{
+	min-height:600px;
+}
+
+.td-nd3{
+	min-height:600px;
+}
+
+.home{
+	position: fixed;
+	bottom: 0px;
+	right: 0px;
+	background: orange;
+	color: black;
+	padding: 14px;
+	border-radius:4px;
+	cursor: pointer;
+}
